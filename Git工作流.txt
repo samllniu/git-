@@ -1,0 +1,13 @@
+Git status
+git add .
+git commit -m 名称
+git status
+git checkout develop
+git merge feature/20191123(自己的功能分支名称)
+git status
+git push
+git checkout feature/20191123(自己的功能分支名称)
+git push
+git checkout develop
+git log --oneline
+git checkout -b feature/20191124(自己的功能分支名称)
